@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git hub repo](https://github.com/MackenanDsouza/article-preview-component-master.git)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://mackenandsouza.github.io/article-preview-component-master/)
 
 ## My process
 
