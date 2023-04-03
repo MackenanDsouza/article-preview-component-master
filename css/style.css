@@ -87,6 +87,12 @@ main .card__share {
   padding: 0.9em 1em;
   background-color: hsl(212, 23%, 69%);
 }
+main .card__share:hover {
+  cursor: pointer;
+}
+main .card__share:hover svg path {
+  fill: #fff;
+}
 main .card__share-active {
   border-bottom-left-radius: 1em;
   border-bottom-right-radius: 1em;
@@ -119,6 +125,7 @@ main .card__share-active-icon {
   background-color: hsl(214, 17%, 51%);
   padding: 1em;
   border-radius: 3em;
+  cursor: pointer;
 }
 main .card__share-active-icon svg {
   color: white;

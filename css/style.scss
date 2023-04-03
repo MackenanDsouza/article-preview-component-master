@@ -105,6 +105,17 @@ main{
             padding:0.9em 1em;
             background-color:$Grayish-Blue;
 
+            &:hover{
+                cursor: pointer;
+                svg{ 
+                    path{
+
+                        fill:#fff;
+                    }   
+                }
+            }
+           
+
             &-active {
                 
                 &.active{
@@ -148,6 +159,7 @@ main{
                     background-color: $Desaturated-Dark-Blue;
                     padding:1em;
                     border-radius: 3em;
+                    cursor: pointer;
                     svg{
                         color:white;
                         padding-bottom:1px
